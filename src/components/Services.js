@@ -3,7 +3,14 @@ import styled from 'styled-components';
 
 
 const StyledServices = styled.div`
-  background-image: url('/images/services-background.jpg');
+  height: 90vh;
+  width: 100%;
+  background-color: #585858;
+  /* display: grid;
+  justify-items: center;
+  align-items: center;
+  position: relative; */
+  background-image: url('images/services-background.jpg');
   background-size: cover;
   background-position: right;
   background-blend-mode: multiply;
