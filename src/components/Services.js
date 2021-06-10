@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
 import styled from 'styled-components';
 
+
 const StyledServices = styled.div`
-  background-image: url('img/services-background.jpg');
+  background-image: url('/images/services-background.jpg');
   background-size: cover;
   background-position: right;
   background-blend-mode: multiply;
