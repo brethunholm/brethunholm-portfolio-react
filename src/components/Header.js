@@ -5,7 +5,7 @@ export default function Header() {
         <div>
             <header>
         <div class="logo">
-            <span> &lt; bre thunholm /&gt;</span>
+            {/* <span> &lt; bre thunholm /&gt;</span> */}
             {/* <img src="#logo" alt=""> */}
         </div>
         <button class="nav-toggle" aria-label="toggle navigation">

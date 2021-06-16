@@ -1,6 +1,9 @@
-import React from 'react'
+import React from 'react';
+import './Intro.css';
+
 
 export default function Intro() {
+
     return (
         <div>
               <section class="intro" id="home">
