@@ -10,32 +10,19 @@ export default function Work() {
         <div class="portfolio">
             {/* -- Portfolio Item 1-- */}
             <a href="./portfolio-item-1.html" class="portfolio__item">
-                <img src="images/wedding.png" alt="description of project" class="portfolio__img" /> </a>
+                <img src="images/outstandingly.jpg" alt="description of project" class="portfolio__img" /> </a>
 
                 {/* Portfolio item 2  */}
                 <a href="./portfolio-item-2.html" class="portfolio__item">
-                    <img src="images/refi.png" alt="" class="portfolio__img" />
+                    <img src="images/wedding.jpg" alt="" class="portfolio__img" />
                 </a>
 
                  {/* Portfolio item 3 */}
                 <a href="./portfolio-item-3.html" class="portfolio__item">
-                    <img src="images/yoda.png" alt="" class="portfolio__img" />
+                    <img src="images/meditation.jpg" alt="" class="portfolio__img" />
                 </a>
 
-                 {/* Portfolio item 4 */}
-                <a href="#" class="portfolio__item">
-                    <img src="images/calc.png" alt="" class="portfolio__img" />
-                </a>
-
-               {/* Portfolio item 5  */}
-                <a href="#" class="portfolio__item">
-                    <img src="images/drawman.png" alt="" class="portfolio__img" />
-                </a>
-
-                 {/* Portfolio item 6  */}
-                <a href="#" class="portfolio__item">
-                    <img src="images/jelly.png" alt="" class="portfolio__img" />
-                </a>
+                
         </div>
     </section>
             

@@ -13,12 +13,9 @@ export default function About() {
         <p class="section__subtitle section__subtitle--about">Developer based in Kihei, HI</p>
 
         <div class="about-me__body boxes" data-aos="fade">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip ex ea commodo consequat</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip ex ea commodo consequat</p>
+            <p>Hi I’m Bre, it is wonderful to meet you! As a science educator turned coder, I have always found joy in finding creative ways to communicate complex subjects simply and effectively to others. I am a driven front end developer with a passion for thoughtful UI design, collaboration and life long learning. </p>
+
+            <p>I look forward to working on a team that is committed to using technology to make the world a better place.</p>
         </div>
 
         <img src="images/bremnt.png" alt="" class="about-me__img boxes" data-aos="zoom-in-left" />

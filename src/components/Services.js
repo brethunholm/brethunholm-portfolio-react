@@ -8,10 +8,6 @@ const StyledServices = styled.div`
   height: 90vh;
   width: 100%;
   background-color: #585858;
-  /* display: grid;
-  justify-items: center;
-  align-items: center;
-  position: relative; */
   background-image: url('images/services-background.jpg');
   background-size: cover;
   background-position: right;
@@ -32,14 +28,14 @@ export default function Services() {
         <h2 class="section__title section__title--services boxes" data-aos="slide-left">What I do</h2>
         <div class="services">
             <div class="service boxes" data-aos="fade-up">
-                <h3>Project</h3>
+                <h3>Designer</h3>
                 <p>Highlight a project here ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
                     aliquip ex ea commodo consequat</p>
             </div> 
 
             <div class="service boxes" data-aos="fade-up">
-                <h3>Another project</h3>
+                <h3>Front-end Developer</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
                     aliquip ex ea commodo consequat</p>
