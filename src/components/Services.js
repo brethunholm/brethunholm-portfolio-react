@@ -29,7 +29,7 @@ export default function Services() {
         <div class="services">
             <div class="service boxes" data-aos="fade-up">
                 <h3>Designer</h3>
-                <p>I value simple, clean and effective designs. A website should be designed for the people who will use it, so thats exactly what I do.</p>
+                <p>I value simple, clean and effective designs. A website should be designed for the people who will use it, so that is exactly what I do.</p>
             </div> 
 
             <div class="service boxes" data-aos="fade-up">
