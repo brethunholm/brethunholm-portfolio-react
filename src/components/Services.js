@@ -29,24 +29,20 @@ export default function Services() {
         <div class="services">
             <div class="service boxes" data-aos="fade-up">
                 <h3>Designer</h3>
-                <p>Highlight a project here ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat</p>
+                <p>I value simple, clean and effective designs. A website should be designed for the people who will use it, so thats exactly what I do.</p>
             </div> 
 
             <div class="service boxes" data-aos="fade-up">
-                <h3>Front-end Developer</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat</p>
+                <h3>Constantly Evolving</h3>
+                <p> Coding mastery is a perpetually moving target. The opportunity to continuously experiment, learn and grow is my absolute favorite part of my job. I strive to continually learn new languages and expand my technical expertise as the field evolves. </p>
             </div> 
 
             <div class="service boxes" data-aos="fade-up">
-                <h3>Third highlighted project</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat</p>
+                <h3> Developer</h3>
+                <p>I enjoy bringing ideas to life in the browser. My current tech stack includes HTML5, CSS3, React / Redux and GatsbyJS.</p>
             </div> 
+
+            
 
         </div> 
 
