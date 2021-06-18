@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 export default function Work() {
     return (
@@ -9,18 +10,18 @@ export default function Work() {
 
         <div className="portfolio">
             {/* -- Portfolio Item 1-- */}
-            <a href="/outstandingly" className="portfolio__item">
-                <img src="images/outstandingly.jpg" alt="description of project" className="portfolio__img" /> </a>
+            <Link to="/outstandingly" className="portfolio__item">
+                <img src="images/outstandingly.jpg" alt="description of project" className="portfolio__img" /> </Link>
 
                 {/* Portfolio item 2  */}
-                <a href="/save-the-date" className="portfolio__item">
+                <Link to="/save-the-date" className="portfolio__item">
                     <img src="images/wedding.jpg" alt="" className="portfolio__img" />
-                </a>
+                </Link>
 
                  {/* Portfolio item 3 */}
-                <a href="/nama-go-meditate" className="portfolio__item">
+                <Link to="/nama-go-meditate" className="portfolio__item">
                     <img src="images/meditation.jpg" alt="" className="portfolio__img" />
-                </a>
+                </Link>
 
                 
         </div>
