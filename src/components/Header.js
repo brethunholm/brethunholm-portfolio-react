@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 
 export default function Header() {
    const [ isOpen, setIsOpen ] = useState('');
-   const [ openContact, setOpenContact ] = useState('');
    function toggleNav() {
        !isOpen ? setIsOpen('nav-open') : setIsOpen('')
        document.body.classList.toggle('nav-open')
