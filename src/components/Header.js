@@ -12,7 +12,7 @@ export default function Header() {
     return (
         
             <header>
-        <a className="resume" href="https://www.dropbox.com/s/twkhfpjv7f6vdou/Thunholm-Resume-2021.pdf?dl=0">&lt; Resume /&gt;</a>
+        <a className="resume" href="https://www.dropbox.com/s/twkhfpjv7f6vdou/Thunholm-Resume-2021.pdf?dl=0" target="_blank" rel="noopener noreferrer">&lt; Resume /&gt;</a>
 
 
         <button onClick={toggleNav} className={`nav-toggle ${isOpen}`} aria-label="toggle navigation">
