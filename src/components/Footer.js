@@ -9,12 +9,12 @@ export default function Footer() {
         <a href="mailto:bthunholm@gmail.com" className="footer__link">bthunholm@gmail.com</a>
         <ul className="social-list">
         <li className="social-list__item" >
-                        <a className="social-list__link" href="https://github.com/brethunholm">
+                        <a className="social-list__link" href="https://github.com/brethunholm" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon className="icon" icon={faGithubSquare}></FontAwesomeIcon>
                         </a>
                     </li>
                     <li className="social-list__item" >
-                        <a className="social-list__link" href="https://www.linkedin.com/in/bre-thunholm-043916173/">
+                        <a className="social-list__link" href="https://www.linkedin.com/in/bre-thunholm-043916173/" target="_blank" rel="noopener noreferrer">
                         <FontAwesomeIcon className="icon" icon={faLinkedinIn}></FontAwesomeIcon>
                             </a>
                     </li>
