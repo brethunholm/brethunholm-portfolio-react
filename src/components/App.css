@@ -154,8 +154,9 @@ header {
   color: #737373;
 }
 
-.resume:hover {
+.resume a:hover {
   color: var(--clr-accent);
+  align-self: flex-start;
 }
 
 /* .resume:visited {
