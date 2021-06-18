@@ -8,12 +8,6 @@ export default function Header() {
        document.body.classList.toggle('nav-open')
    }
 
-   function toggleContact() {
-       console.log('open');
-       !openContact ? setOpenContact('contact-open') : setOpenContact('')
-    //    document.body.classList.toggle('contact-open')
-   }
-  
 
 
     return (
