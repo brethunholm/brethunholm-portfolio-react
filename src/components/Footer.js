@@ -5,9 +5,9 @@ import { faGithubSquare, faLinkedinIn } from "@fortawesome/free-brands-svg-icons
 export default function Footer() {
     return (
         
-               <footer class="footer">
-        <a href="mailto:bthunholm@gmail.com" class="footer__link">bthunholm@gmail.com</a>
-        <ul class="social-list">
+               <footer className="footer">
+        <a href="mailto:bthunholm@gmail.com" className="footer__link">bthunholm@gmail.com</a>
+        <ul className="social-list">
         <li className="social-list__item" >
                         <a className="social-list__link" href="https://github.com/brethunholm">
                             <FontAwesomeIcon className="icon" icon={faGithubSquare}></FontAwesomeIcon>
