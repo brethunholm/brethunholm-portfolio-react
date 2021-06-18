@@ -146,6 +146,12 @@ header {
 }
 .resume {
   text-decoration: none;
+  padding-left: 2rem;
+  color: #737373;
+}
+
+.resume:visited {
+  color: #737373;
 }
 
 .resume:hover {
