@@ -14,7 +14,7 @@ const data = {
         projectTitle: `Save the Date: Wedding Information Landing Page`,
         projectLink: `https://save-the-date-rae.netlify.app/`,
         projectSubtitle: `Custom designed wedding information, rsvp and gallery `,
-        headerParagraph: `This project was a. Created using React  CSS Grid Mobile First Design custom media queries`,
+        headerParagraph: `This project was a. Created using React. It was designed from concept to launch using CSS Grid Mobile First Design custom media queries`,
         bottomParagraph: `
 
         This page has many accessibility features including:
