@@ -27,13 +27,13 @@ export default function App() {
         </div>
         </Route>
         <Route path="/outstandingly">
-        <PortfolioPage projectTitle={outstandingly.projectTitle} projectLink={outstandingly.projectLink} projectSubtitle={outstandingly.projectSubtitle} headerParagraph={outstandingly.headerParagraph} bottomParagraph={outstandingly.bottomParagraph} src={outstandingly.src} img={outstandingly.img}/>
+        <PortfolioPage projectTitle={outstandingly.projectTitle} projectLink={outstandingly.projectLink} projectSubtitle={outstandingly.projectSubtitle} headerParagraph={outstandingly.headerParagraph} bottomParagraph={outstandingly.bottomParagraph} projectUrl={outstandingly.projectUrl} src={outstandingly.src} img={outstandingly.img}/>
         </Route>
         <Route path="/save-the-date">
-        <PortfolioPage projectTitle={wedding.projectTitle} projectLink={wedding.projectLink} projectSubtitle={wedding.projectSubtitle} headerParagraph={wedding.headerParagraph} bottomParagraph={wedding.bottomParagraph} src={wedding.src} img={wedding.img}/>
+        <PortfolioPage projectTitle={wedding.projectTitle} projectLink={wedding.projectLink} projectSubtitle={wedding.projectSubtitle} headerParagraph={wedding.headerParagraph} bottomParagraph={wedding.bottomParagraph} projectUrl={wedding.projectUrl}src={wedding.src} img={wedding.img}/>
         </Route>
         <Route path="/nama-go-meditate">
-        <PortfolioPage projectTitle={ meditation.projectTitle} projectLink={ meditation.projectLink} projectSubtitle={ meditation.projectSubtitle} headerParagraph={meditation.headerParagraph} bottomParagraph={meditation.bottomParagraph} src={meditation.src} img={meditation.img}/>
+        <PortfolioPage projectTitle={ meditation.projectTitle} projectLink={ meditation.projectLink} projectSubtitle={ meditation.projectSubtitle} headerParagraph={meditation.headerParagraph} bottomParagraph={meditation.bottomParagraph} projectUrl={meditation.projectUrl}src={meditation.src} img={meditation.img}/>
         </Route>
         </Router>
     )
