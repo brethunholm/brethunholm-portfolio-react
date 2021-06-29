@@ -7,11 +7,13 @@ const data = {
         projectSubtitle: `Concept to Deployment Gatsby Site`,
         projectUrl: `Outstandingly.netlify.app`,
         headerParagraph: `
-        The goal of this project was to create a dynamic and mobile responsive landing page for a tech start up based in San Diego California . Throughout this project, I worked as lead developer as part of a three person team to develop the website from concept to launch. In the early stages of development of this project I utilized Figma to create wireframes and mockup the site. Our team utilized Agile and Scrum methodology for our development. As the lead developer I lead daily standup meetings via zoom with the other team members, assigned tasks and performed weekly code reviews.
+        The goal of this project was to create a dynamic and moThe goal of this project was to create a dynamic and mobile-responsive landing page for a tech start-up based in San Diego, California. Throughout this project, I worked as lead developer among a three-person team to develop the website from concept to launch. In the early stages of development of this project I utilized Figma to create wireframes and mockup the site. Our team utilized Agile and Scrum methodology for our development. As the lead developer I lead daily standup meetings via zoom with the other team members, assigned tasks and performed weekly code reviews.
         `,
-        bottomParagraph: `This project was coded on Visual Studio Code. I built the project with Gatsby and React and utilized Graphql for image rendering. With future use and scaling in mind, I built reusable components that accepted props to render content. I created a custom drop down accordion style FAQ component that accepts props to render the content allowing additional content to be easily added or removed.  Additionally, I researched and utilized well supported NPM packages when necessary including Aos for scroll animations and Formik for form management as well as several other Gatsby required packages for image rendering. Throughout the development of this site our team utilized GitHub for version control, the final product is hosted using Netlify.
-
+        bottomParagraph: `
+        This project was coded on Visual Studio Code. I built the project with Gatsby and React and utilized Graphql for image rendering. With future use and scaling in mind I built reusable components that accepted props to render content. I created a custom drop down accordion style FAQ component that accepts props to render the content allowing additional content to be easily added or removed.  Additionally, I researched and utilized well supported NPM packages when necessary including Aos for scroll animations and Formik for form management as well as several other Gatsby required packages for image rendering. Throughout the development of this site our team utilized GitHub for version control, the final product is hosted using Netlify.
+        
         I really enjoyed working on this project and having the opportunity to take on a leadership role. I learned a lot about GatsbyJS and how it works with React to make sites even faster and render images more efficiently. 
+        
         `,
         src: `https://www.youtube.com/embed/YSayHfJMZQc`,
         img: 'images/outstandingly.jpg'
