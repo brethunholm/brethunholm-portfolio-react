@@ -33,7 +33,7 @@ export default function ContactMe({ show, close }) {
           <span className="space red">resume</span>
           <span className="cyan">:</span>  <a href="https://app.box.com/s/rv3cjoxhq171kr3b242xiv1rc90fv949" className="green" target="_blank" rel="noopener noreferrer">'thunholm-resume'</a>,
           <br />
-          <span className="space red">github</span><span className="cyan">:</span> <a className="green" href="https://github.com/brethunholm">'github.com/brethunholm'</a>
+          <span className="space red">github</span><span className="cyan">:</span> <a className="green" href="https://github.com/brethunholm" target="_blank" rel="noopener noreferrer">'github.com/brethunholm'</a>
           <br/> 
           &#125;;
         </p>
