@@ -147,8 +147,11 @@ header {
 .resume {
   text-decoration: none;
   padding-left: 1rem;
-  color: #737373;
   font-weight: 700;
+}
+
+.resume button {
+  color: #737373;
 }
 
 .resume:visited {
