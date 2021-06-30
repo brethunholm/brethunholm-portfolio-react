@@ -29,12 +29,12 @@ export default function Services() {
         <div className="services">
             <div className="service boxes" data-aos="fade-up">
                 <h3>Designer</h3>
-                <p>I value simple, clean and effective designs. A website should be designed for the people who will use it, so that is exactly what I do.</p>
+                <p>I value simple, clean, and effective designs. A website should be designed for the people who will use it, so that is exactly what I do.</p>
             </div> 
 
             <div className="service boxes" data-aos="fade-up">
                 <h3>Constantly Evolving</h3>
-                <p> Coding mastery is a perpetually moving target. The opportunity to continuously experiment, learn and grow is my absolute favorite part of my job. I strive to continually learn new languages and expand my technical expertise as the field evolves. </p>
+                <p> Coding mastery is a perpetually moving target. The opportunity to continuously experiment, learn, and grow is my absolute favorite part of my job. I strive to continually learn new languages and expand my technical expertise as the field evolves. </p>
             </div> 
 
             <div className="service boxes" data-aos="fade-up">

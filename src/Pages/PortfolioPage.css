@@ -11,6 +11,7 @@
   margin-right: auto;
   text-align: center;
 }
+
 a {
   color: #333;
   text-decoration: none;
@@ -19,8 +20,8 @@ a {
 iframe {
   height: 400px;
   width: 650px;
-  /* height: 50vh;
-      width: 50vw; */
+  /* height: 30vh;
+  width: 50vw; */
   margin: 0 auto;
 }
 
@@ -28,4 +29,11 @@ iframe {
   color: #e87360;
   font-weight: 700;
   text-decoration: underline;
+}
+
+@media (width: 600px) {
+  iframe {
+    width: 20vw;
+    height: 30vh;
+  }
 }
