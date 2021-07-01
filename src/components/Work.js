@@ -13,7 +13,7 @@ export default function Work() {
     return (
         <section className="my-work grids" id="work">
             <h2 className="section__title">My Work</h2>
-            <p className="section__subtitle">A selection of professional and personal projects</p>
+            <p className="section__subtitle">A selection of my professional and personal projects</p>
 
             <div className="portfolio boxes" data-aos="fade-up">
                 {/* -- Portfolio Item 1-- */}
