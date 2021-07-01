@@ -145,23 +145,25 @@ header {
   padding: 0.5em;
 }
 .resume {
-  text-decoration: none;
+  /* text-decoration: none; */
   /* padding-left: 0.5rem; */
-  font-weight: 700;
+  /* font-weight: 700; */
 }
 
 .resume button {
   color: #737373;
+  margin-left: 0;
+  font-size: 1.15rem;
 }
 
 .resume:visited {
   color: #737373;
 }
-
+/* 
 .resume a:hover {
   color: white;
   align-self: flex-start;
-}
+} */
 
 /* .resume:visited {
   color: black;
@@ -197,7 +199,7 @@ header {
 
 .nav__link {
   color: inherit;
-  font-weight: var(--fw-bold);
+  /* font-weight: var(--fw-bold); */
   font-size: 1.15rem;
   text-decoration: none;
 }
@@ -240,6 +242,7 @@ header {
 .hamburger {
   display: block;
   position: relative;
+  margin-top: 0.5rem;
 }
 
 .hamburger,
@@ -367,8 +370,14 @@ header {
 
 .portfolio {
   display: grid;
+  width: 80vw;
+  height: 60vh;
+  /* border: 1px solid red; */
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  max-width: 1050px;
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  gap: 1rem;
+  /* justify-content: space-between; */
+  /* max-width: 1050px; */
   margin: 0 auto;
 }
 
@@ -397,11 +406,18 @@ header {
 /* Footer */
 
 .footer {
-  background: #111;
+  background: #0c0e0e;
   color: var(--clr-accent);
   text-align: center;
   padding: 2.5em 0;
   font-size: var(--fs-h3);
+}
+
+.footer-btn {
+  background: none;
+  border: 1px solid var(--clr-accent);
+  color: var(--clr-accent);
+  padding: 5 rem;
 }
 
 .footer a {
