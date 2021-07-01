@@ -33,7 +33,7 @@ export default function Services() {
             </div> 
 
             <div className="service boxes" data-aos="fade-up">
-                <h3>Constantly Evolving</h3>
+                <h3>Lifelong Learner</h3>
                 <p> Coding mastery is a perpetually moving target. The opportunity to continuously experiment, learn, and grow is my absolute favorite part of my job. I strive to continually learn new languages and expand my technical expertise as the field evolves. </p>
             </div> 
 

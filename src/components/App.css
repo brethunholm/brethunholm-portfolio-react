@@ -145,25 +145,23 @@ header {
   padding: 0.5em;
 }
 .resume {
-  /* text-decoration: none; */
-  /* padding-left: 0.5rem; */
-  /* font-weight: 700; */
+  text-decoration: none;
+  padding-left: 0.5rem;
+  font-weight: 700;
 }
 
 .resume button {
   color: #737373;
-  margin-left: 0;
-  font-size: 1.15rem;
 }
 
 .resume:visited {
   color: #737373;
 }
-/* 
+
 .resume a:hover {
   color: white;
   align-self: flex-start;
-} */
+}
 
 /* .resume:visited {
   color: black;
