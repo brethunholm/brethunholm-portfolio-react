@@ -3,6 +3,7 @@ import Aos from 'aos';
 import 'aos/dist/aos.css';
 
 export default function About() {
+    // slide in effect for about me section 
     useEffect(() => {
         Aos.init({duration:2000});
     }, [])

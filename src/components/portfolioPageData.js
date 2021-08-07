@@ -1,4 +1,4 @@
-
+// Portfolio project data to be taken in my portfolio pg component
 
 const data = {
     outstandingly: {
